@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2013-12-22 22:54:59
+categories: first
+---
+
+Hi!
+
+{% highlight c %}
+#include <stdio.h>
+
+int main(void) {
+    puts("hello world");
+    return 0;
+}
+{% endhighlight %}
+
+check out my [github profile].
+
+[github profile]: https://github.com/freestyl3r
