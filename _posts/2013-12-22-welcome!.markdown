@@ -5,7 +5,7 @@ date:   2013-12-22 22:54:59
 categories: first
 ---
 
-Hi!
+Hi! A sample hello world program is following.
 
 {% highlight c %}
 #include <stdio.h>
